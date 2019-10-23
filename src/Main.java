@@ -18,7 +18,7 @@ public class Main {
 //			System.out.println("el numero " + num1 + " es mayor que el numero " + num2 );
 //			
 //		}
-		System.out.println("ingrese un numero: ");
+		//System.out.println("ingrese un numero: ");
 		int num1=sc.nextInt();
 		System.out.println("ingrese un numero: ");
 		int num2=sc.nextInt();
